@@ -1,0 +1,2 @@
+# tamarind
+Tamarind is a program created for polymer thermodynamic simulations
